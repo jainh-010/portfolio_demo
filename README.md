@@ -24,5 +24,5 @@ href=
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
 
-##Simple portfolio demo 
+## Simple portfolio demo 
 
